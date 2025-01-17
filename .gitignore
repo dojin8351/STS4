@@ -16,7 +16,7 @@ bin
 .bin
 *.bin
 */bin
-*./settings
+*/.settings
 ### macOS ###
 # General
 .DS_Store
